@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Urvish
 - 👀 Eagar to learn for new things
-- 🌱 **Recycle** to help environment.
+- 🌱 Bealieve in **Recycle** to help environment.
 - 💞️ Bealieve in **Humanity** and **Peace**
-- 📫 **Good communication** is key to success.
+- 📫 Bealieve in **Good communication**.
 
 <!---
 urvcanada/urvcanada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
